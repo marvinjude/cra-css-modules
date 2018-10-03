@@ -1,0 +1,7 @@
+.error {
+  color: brown;
+}
+.upsidedown {
+  transform: rotate(180deg);
+  color: red;
+}
